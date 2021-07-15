@@ -101,7 +101,7 @@ The Software can transmit Rightholder license information needed to verify the l
 
 > You should familiarize yourself with the terms of security for FTP servers or online services before using them. 
 
-# 8. Limitations 
+## 8. Limitations 
 
 8.1. You shall not emulate, clone, rent, lend, lease, sell, modify, decompile, or reverse-engineer the Software or disassemble or create derivative works based on the Software or any portion thereof with the sole exception of a non-waiver able right granted to You by applicable legislation, and you shall not otherwise reduce any part of the Software to human-readable form or transfer the licensed Software, or any subset of the licensed Software, nor permit any third party to do so, except to the extent the foregoing restriction is expressly prohibited by applicable law. Neither the Software’s binary code nor source may be used or reverse-engineered to re-create the program algorithm, which is proprietary. All rights not expressly granted herein are reserved by Rightholder and/or its suppliers, as applicable. Any unauthorized use of the Software shall result in immediate and automatic termination of this Agreement and the License granted hereunder and may result in criminal and/or civil prosecution against You. 
 8.2. You shall not transfer the rights to use the Software to any third party except as set forth in Section 2.5 of this Agreement. 
