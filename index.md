@@ -12,7 +12,7 @@ permalink: /
 Firesec™ is a Security Analysis and Orchestration platform. It is designed solve problems of these 4 personas - CISO, Security Consultant, Security Auditor and Network Administrator. It is an automated solution for security configuration analysis and compliance readiness. It supports a wide variety of firewalls and helps enhance the security of your network as well as significantly speed up compliance to standards such as PCI DSS, CI Security Benchmarks etc.,
 {: .fs-6 .fw-300 }
 
-[Key Features](#key-features){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Personas]({{ site.baseurl }}{% link docs/personas/persona.md %}){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Key Features](#key-features){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Personas]({{ site.url }}{% link docs/personas/persona.md %}){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -50,7 +50,7 @@ Firesec™ is a Security Analysis and Orchestration platform. It is designed sol
 - [x] Rapid 7 Nexpose
 - [x] Nessus
 
-[View details]({{ site.baseurl }}{% link docs/integrations.md %}){: .btn .btn-green }
+[View details]({{ site.url }}{% link docs/integrations.md %}){: .btn .btn-green }
 
 ### Releases
 
