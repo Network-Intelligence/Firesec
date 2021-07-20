@@ -1,3 +1,13 @@
+---
+layout: default
+title: Analyse and Optimize Rule Base
+nav_order: 4
+parent: Features
+has_children: false
+has_toc: false
+---
+
+
 # **Analyse and Optimize Rule Base**
 Over years, the rule bases that controls your network devices gets clogged and clumsy, as they are over burdened with the rules which are obsolete, redundant and insecure. To achieve improved performance, stouter security and compliance with regulations, you need to clean up those rule bases.
 Firesec helps you in optimizing your rule base by generating comprehensive reports which helps you identifying and removing the bloated and unnecessary rules. In addition, the automated processes help you to optimally design and implement new rules.

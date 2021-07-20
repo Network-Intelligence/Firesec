@@ -1,3 +1,12 @@
+---
+layout: default
+title: Personalised Dashboard 
+nav_order: 3
+parent: Features
+has_children: false
+has_toc: false
+---
+
 # 360-degree View Personalised Dashboard 
 Getting the view of overall security posture of your organization is really a boon. Firesec allows users to customize their dashboard by adding widgets. With this, you can configure the links, graphs and charts, which displays the exact information of your network devices configuration analysis right on your dashboard.
 ## Organizations can use Firesec to:

@@ -1,3 +1,13 @@
+---
+layout: default
+title: Robust Reporting
+nav_order: 6
+parent: Features
+has_children: false
+has_toc: false
+---
+
+
 # Generate Target Audience Based Customized Report
 In-depth analysis of the rules, provides you with the clear statistics of the rules usage. This statistic can be used by administrators to discover the adequacy of the respective rule, while implementing the security policy for an organization. So, from the rule base analysis, the administrator can easily take actions against the rules, which are unused, or moderately used. Also, can add new rules to meet the security policy requirements.
 

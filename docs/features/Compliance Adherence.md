@@ -1,3 +1,12 @@
+---
+layout: default
+title: Compliance
+nav_order: 5
+parent: Features
+has_children: false
+has_toc: false
+---
+
 # Compliance Adherence
 It’s a monotonous, erroneous, and prolonged process to prepare your firewalls from the audit perspective. As your rule bases are constantly changing, so it’s difficult to put all regulations in the continuance compliance for the point-in-time exercise.
 Having multifarious rules and ACL’s across various security devices, and voluminous updates constantly, makes it practically impossible to prepare for an audit manually. 

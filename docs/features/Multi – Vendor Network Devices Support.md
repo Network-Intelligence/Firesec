@@ -1,3 +1,13 @@
+---
+layout: default
+title: Multi Vendor Support
+nav_order: 7
+parent: Features
+has_children: false
+has_toc: false
+---
+
+
 # Multi – Vendor Network Devices Support
 Different enterprises make use of network devices that belongs to varied hardware vendors for different purposes. This leads to the network complexity and makes the configuration management process quite obscure. The security administrator needs to invest their crucial time to manage the configuration of these devices systematically. So, there is a requirement of a consolidated network configuration management solution, which not only simplifies administrators' task but also saves your money.
 
