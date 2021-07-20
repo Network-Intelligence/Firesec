@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Firesec Documentation
 description: Firesec documentation
-baseurl: "/documentation" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 #url: "https://pmarsceill.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #url: "localhost:4000/
 url: "https://docs.firesec.io"
