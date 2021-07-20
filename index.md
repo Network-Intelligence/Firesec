@@ -65,8 +65,7 @@ Features
     i. Fortinet
     ii. Juniper
     iii. Palo Alto
-2. Speed and Performance Improvements
-3. Bug Fixes from older versions
+2. CyberArk Integration (PVWA)
 
 #### Version 1.19 
 
@@ -77,11 +76,9 @@ New Release
 
 Features
 
-1.
-2.
+1. Speed and Performance Improvements
+2. Bug Fixes from older versions
 3.
-
-
 
 ---
 
