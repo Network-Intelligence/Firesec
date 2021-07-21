@@ -2,6 +2,8 @@
 layout: default
 title: Integrations
 nav_order: 4
+has_children: true
+has_toc: false
 ---
 
 # Integrations
@@ -29,10 +31,10 @@ nav_order: 4
 
 Firesec provides flexible ways to integrate with various network devices. Analysis can be carried out in two modes 
 
-Online (Automatic) - Firesec connects directly with the network device either using CLI or API.[^1] 
+> **Online (Automatic)** - Firesec connects directly with the network device either using CLI or API.[^1] 
 Further, allow customers to setup a scheduled analysis.
 
-Offline (Manual) - Firesec takes the configuration file of the network device to carry out the analysis[^2]
+> **Offline (Manual)** - Firesec takes the configuration file of the network device to carry out the analysis[^2]
 
 [^1]: Requires Administrator user credentials to access CLI or API to execute show commands
 [^2]: Analysis limited to the data available in the configuration
@@ -41,27 +43,32 @@ Offline (Manual) - Firesec takes the configuration file of the network device to
 
 #### Firesec integration with **Network Devices** 
 
-- [x] CheckPoint
-- [x] Cisco
-- [x] Fortinet
-- [x] Juniper
-- [x] Palo Alto
-- [x] SonicWall
-- [x] Sophos (includes erstwhile Cyberoam devices too)
+- ✅ [CheckPoint]({{ site.url }}{% link docs/Integrations/Network Devices/CheckPoint.md %})
+- ✅ [Cisco]({{ site.url }}{% link docs/Integrations/Network Devices/Cisco.md %}) 
+- ✅ [Fortinet]({{ site.url }}{% link docs/Integrations/Network Devices/Fortinet.md %})
+- ✅ [Juniper]({{ site.url }}{% link docs/Integrations/Network Devices/Juniper.md %})
+- ✅ [Palo Alto]({{ site.url }}{% link docs/Integrations/Network Devices/PaloAlto.md %})
+- ✅ [SonicWall]({{ site.url }}{% link docs/Integrations/Network Devices/Sonicwall.md %})
+- ✅ [Sophos]({{ site.url }}{% link docs/Integrations/Network Devices/Sophos.md %}) (includes erstwhile Cyberoam devices too)
 
-- [x] AWS Security Groups
-- [x] Azure Network Security Groups
+- ✅ AWS Security Groups
+- ✅ Azure Network Security Groups
 
 #### Firesec integration with **Change Management Solutions** 
 
-- [x] ServiceNow
-- [x] Fresh Service 
-- [x] Service Desk Plus
+- ✅ [ServiceNow]({{ site.url }}{% link docs/Integrations/Change Management/ServiceNow.md %}) 
+- ✅ [Fresh Service]({{ site.url }}{% link docs/Integrations/Change Management/FreshService.md %}) 
+- ✅ [Service Desk Plus]({{ site.url }}{% link docs/Integrations/Change Management/ServiceDeskPlus.md %}) 
 
 #### Firesec integration with **Vulnerability Management Solutions**
 
-- [x] Rapid 7 Nexpose
-- [x] Nessus
+- ✅ [Rapid 7 Nexpose]({{ site.url }}{% link docs/Integrations/Vulnerability Management/Rapid7.md %})
+- ✅ [Nessus]({{ site.url }}{% link docs/Integrations/Vulnerability Management/Nessus.md %})
+
+#### Firesec integration with **Identity Management Solutions**
+
+- ✅ [CyberArk]({{ site.url }}{% link docs/Integrations/Identity Management/CyberArk.md %})
+
 
 | Legend |
 | --- | --- |

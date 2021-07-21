@@ -50,7 +50,7 @@ Firesec™ is a Security Analysis and Orchestration platform. It is designed sol
 - [x] Rapid 7 Nexpose
 - [x] Nessus
 
-[View details]({{ site.baseurl }}{% link docs/integrations.md %}){: .btn .btn-green }
+[View details]({{ site.baseurl }}{% link docs/Integrations/Integrations.md %}){: .btn .btn-green }
 
 ### Releases
 

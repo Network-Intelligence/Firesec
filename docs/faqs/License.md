@@ -10,6 +10,8 @@ has_toc: false
 # [](#header-1) LICENSE LIMITATIONS
 
 ### Limited Functionality
+
+The product will function with limited capabilities for a grace period of FIFTEEN (15) days. 
   1. The functionality will be limited to the following actions  
   2. No new assets can be added 
 

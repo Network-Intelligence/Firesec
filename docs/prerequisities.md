@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prerequisities
-nav_order: 5
+nav_order: 6
 ---
 
 # [](#header-1) Pre-requisities for Firesec Deployment
