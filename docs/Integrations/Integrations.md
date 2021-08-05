@@ -51,8 +51,8 @@ Further, allow customers to setup a scheduled analysis.
 - ✅ [SonicWall]({{ site.url }}{% link docs/Integrations/Network Devices/Sonicwall.md %})
 - ✅ [Sophos]({{ site.url }}{% link docs/Integrations/Network Devices/Sophos.md %}) (includes erstwhile Cyberoam devices too)
 
-- ✅ AWS Security Groups
-- ✅ Azure Network Security Groups
+- ✅ [AWS Security Groups]({{ site.url }}{% link docs/Integrations/Network Devices/AWS.md %})
+- ✅ [Azure Network Security Groups]({{ site.url }}{% link docs/Integrations/Network Devices/Azure.md %})
 
 #### Firesec integration with **Change Management Solutions** 
 
@@ -120,6 +120,7 @@ New Release
 |Management Console|CheckPoint|SmartConsole|R80.20|🚫|🚫|✅|
 |Vulnerability Manager|Rapid7|InsightVM||🚫|🚫|ꞵ|
 |Vulnerability Manager|Tenable|Nessus||🚫|🚫|ꞵ|
+|Identity Manager|CyberArk|PVWA|11.7|🚫|🚫|ꞵ|
 
 </div>
 
