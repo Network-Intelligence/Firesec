@@ -89,9 +89,18 @@ Features
 
 ## Review
 
-Review us on Gartner Peer Insights
-
+<div class="GartnerPeerInsightsWidget">Review us on Gartner Peer Insights </div>
 <script type="text/javascript" src="https://www.gartner.com/reviews/public/Widget/js/widget.js"></script>
+<script type="text/javascript">
+		GartnerPI_Widget({
+			size: "small",
+			theme: "dark",
+			sourcingLink: "https://gtnr.io/2GB846TOz",
+			widget_id: "YzkyYzU0ZTYtMWUxYS00NGY1LWE0MzctZWZiMTI1MDllNDdi",
+			version: "2",
+		container: document.querySelector('.GartnerPeerInsightsWidget');
+		});
+	</script>
 
 ## Copyright
 Firesec is &copy; 2018-{{ "now" | date: "%Y" }} by [Network Intelligence](https://www.niiconsulting.com).
@@ -111,13 +120,3 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
   }
 });
 </script>
-<script type="text/javascript">
-		GartnerPI_Widget({
-			size: "small",
-			theme: "dark",
-			sourcingLink: "https://gtnr.io/2GB846TOz",
-			widget_id: "YzkyYzU0ZTYtMWUxYS00NGY1LWE0MzctZWZiMTI1MDllNDdi",
-			version: "2",
-		container: "#Review"
-		})
-	</script>
