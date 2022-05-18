@@ -92,14 +92,14 @@ Features
 Review us on Gartner Peer Insights
 
 <script type="text/javascript" src="https://www.gartner.com/reviews/public/Widget/js/widget.js"></script>
-	<script type="text/javascript">
+<script type="text/javascript">
 		GartnerPI_Widget({
 			size: "small",
 			theme: "dark",
 			sourcingLink: "https://gtnr.io/2GB846TOz",
 			widget_id: "YzkyYzU0ZTYtMWUxYS00NGY1LWE0MzctZWZiMTI1MDllNDdi",
 			version: "2",
-		container: document.querySelector("#Review”)
+		container: "#Review"
 		})
 	</script>
 
