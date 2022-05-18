@@ -122,6 +122,7 @@ New Release
 |Management Console|CheckPoint|SmartConsole|R80.20|🚫|🚫|✅|
 |Management Console|CheckPoint|SmartConsole|R80.40|🚫|🚫|✅|
 |Management Console|CheckPoint|SmartConsole|R81|🚫|🚫|✅|
+|Management Console|Palo Alto|Panorama|v10.0|🚫|🚫|✅|
 |Vulnerability Manager|Rapid7|InsightVM||🚫|🚫|ꞵ|
 |Vulnerability Manager|Tenable|Nessus||🚫|🚫|ꞵ|
 |Identity Manager|CyberArk|PVWA|11.7|🚫|🚫|ꞵ|
