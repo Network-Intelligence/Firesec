@@ -77,9 +77,9 @@ Further, allow customers to setup a scheduled analysis.
 | Not Applicable | 🚫 | 
 | Beta | ꞵ |
 
-<details><summary>Version 1.20</summary>
+<details><summary>Version 1.24</summary>
 <div markdown="1">
-### Firesec version v 1.20 supported devices 
+### Firesec version v 1.24 supported devices 
 Stable 
 {: .label .label-green }
 New Release
@@ -131,9 +131,9 @@ New Release
 </div>
 </details>
 
-<details><summary>Version 1.19</summary>
+<details><summary>Version 1.23</summary>
 <div markdown="1">
-### Firesec version v 1.19 supported devices 
+### Firesec version v 1.23 supported devices 
 
 <div markdown="1">
 
@@ -177,9 +177,9 @@ New Release
 </div>
 </details>
 
-<details><summary>Version 1.18</summary>
+<details><summary>Version 1.22</summary>
 <div markdown="1">
-### Firesec version v 1.18 supported devices
+### Firesec version v 1.22 supported devices
 
 <div markdown="1">
 
@@ -222,9 +222,9 @@ New Release
 </details>
 
 
-<details><summary>Version 1.17</summary>
+<details><summary>Version 1.21</summary>
 <div markdown="1">
-### Firesec version v 1.17 supported devices
+### Firesec version v 1.21 supported devices
 
 <div markdown="1">
 
