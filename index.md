@@ -54,9 +54,26 @@ Firesec™ is a Security Analysis and Orchestration platform. It is designed sol
 
 ### Releases
 
-#### Version 1.20 
+#### Version 1.24 
+Stable 
+{: .label .label-green }
+New Release
+{: .label .label-purple }
 
-Coming Soon 
+Features
+
+1. Additional Security Configuration Checks 
+    i. Fortinet
+    ii. Juniper
+    iii. Palo Alto
+2. Generate Organization Reports
+3. Transfer Assets across Business Units
+4. Speed and Performance Improvements
+5. Bug Fixes from older versions
+
+#### Version 1.23 
+
+Legacy 
 {: .label .label-yellow }
 
 Features
@@ -65,26 +82,29 @@ Features
     i. Fortinet
     ii. Juniper
     iii. Palo Alto
-2. CyberArk Integration (PVWA)
-
-#### Version 1.19 
-
-Stable 
-{: .label .label-green }
-New Release
-{: .label .label-purple }
-
-Features
-
-1. Speed and Performance Improvements
 2. Bug Fixes from older versions
-3.
+3. Security Fixes
 
 ---
 
-## About the Product
+## Review
 
-Firesec is &copy; 2017-{{ "now" | date: "%Y" }} by [Network Intelligence](https://www.niiconsulting.com).
+Review us on Gartner Peer Insights
+
+<script type="text/javascript" src="https://www.gartner.com/reviews/public/Widget/js/widget.js"></script>
+	<script type="text/javascript">
+		GartnerPI_Widget({
+			size: "small",
+			theme: "dark",
+			sourcingLink: "https://gtnr.io/2GB846TOz",
+			widget_id: "YzkyYzU0ZTYtMWUxYS00NGY1LWE0MzctZWZiMTI1MDllNDdi",
+			version: "2",
+		container: document.querySelector("#Review”)
+		})
+	</script>
+
+## Copyright
+Firesec is &copy; 2018-{{ "now" | date: "%Y" }} by [Network Intelligence](https://www.niiconsulting.com).
 
 <button class="btn js-toggle-dark-mode">Switch to dark color scheme</button>
 
