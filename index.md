@@ -55,9 +55,10 @@ Firesec™ is a Security Analysis and Orchestration platform. It is designed sol
 ### Releases
 
 #### Version 1.24 
-
-Coming Soon 
-{: .label .label-yellow }
+Stable 
+{: .label .label-green }
+New Release
+{: .label .label-purple }
 
 Features
 
@@ -72,10 +73,8 @@ Features
 
 #### Version 1.23 
 
-Stable 
-{: .label .label-green }
-New Release
-{: .label .label-purple }
+Legacy 
+{: .label .label-yellow }
 
 Features
 
