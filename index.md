@@ -89,16 +89,19 @@ Features
 
 ## Review
 
-<div class="GartnerPeerInsightsWidget">Review us on Gartner Peer Insights </div>
+<div>Review us on [Gartner Peer Insights](https://www.gartner.com/peer-insights/home) Platform
+<div class="GartnerPeerInsightsWidget"> [Start your Review](https://gtnr.io/2GB846TOz)  </div>
+</div>
 <script type="text/javascript" src="https://www.gartner.com/reviews/public/Widget/js/widget.js"></script>
 <script type="text/javascript">
+  const gpiContainerDiv = document.querySelector('.GartnerPeerInsightsWidget');
 		GartnerPI_Widget({
 			size: "small",
 			theme: "dark",
 			sourcingLink: "https://gtnr.io/2GB846TOz",
 			widget_id: "YzkyYzU0ZTYtMWUxYS00NGY1LWE0MzctZWZiMTI1MDllNDdi",
 			version: "2",
-		container: document.querySelector('.GartnerPeerInsightsWidget');
+		container: gpiContainerDiv;
 		});
 	</script>
 
