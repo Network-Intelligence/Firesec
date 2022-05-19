@@ -90,7 +90,7 @@ Features
 ## Review
 
 <div>Review us on [Gartner Peer Insights](https://www.gartner.com/peer-insights/home) Platform
-<div class="GartnerPeerInsightsWidget"> [Start your Review](https://gtnr.io/2GB846TOz)  </div>
+<div class="GartnerPeerInsightsWidget">  </div>
 </div>
 <script type="text/javascript" src="https://www.gartner.com/reviews/public/Widget/js/widget.js"></script>
 <script type="text/javascript">
@@ -101,7 +101,7 @@ Features
 			sourcingLink: "https://gtnr.io/2GB846TOz",
 			widget_id: "YzkyYzU0ZTYtMWUxYS00NGY1LWE0MzctZWZiMTI1MDllNDdi",
 			version: "2",
-		container: gpiContainerDiv;
+		container: gpiContainerDiv
 		});
 	</script>
 
