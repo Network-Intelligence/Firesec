@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Prerequisities
+title: Prerequisites
 nav_order: 6
 ---
 
-# [](#header-1) Pre-requisities for Firesec Deployment
+# [](#header-1) Pre-requisites for Firesec Deployment
 
 ## System Requirements
 
