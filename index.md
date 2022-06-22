@@ -54,36 +54,55 @@ Firesec™ is a Security Analysis and Orchestration platform. It is designed sol
 
 ### Releases
 
-#### Version 1.24 
+#### Version 1.27 
 Stable 
 {: .label .label-green }
 New Release
 {: .label .label-purple }
 
 Features
+- [x] New Reporting Engine
+- [x] System Diagnostics added to measure time taken for Parsing, Analysis & Reports
 
-1. Additional Security Configuration Checks 
-    i. Fortinet
-    ii. Juniper
-    iii. Palo Alto
-2. Generate Organization Reports
-3. Transfer Assets across Business Units
-4. Speed and Performance Improvements
-5. Bug Fixes from older versions
+- [x] Export To Excel Functionality
+Firewall Name or Organization Name is appended to the filename on download
+Policy Name column added to selection of columns to Export to Excel
 
-#### Version 1.23 
+- [x] Reports
+Mark Exception Icon in Excel Report
+Additional columns added in Audit Schedule Detail section (Executive Summary) Excel Report
+Additional columns added in Audit Schedule Detail section (Executive Summary) PDF Report
+
+- [x] UI Improvements 
+Compliance tab {Perf}
+Firewall Objects Tab {Perf} 
+View & Download Config {Perf}
+Listing Business Unit Names grouped by Organization Name in Asset Page BU Selection Drop Down.
+Reports Page refresh timer extended to 5 mins (earlier 10 secs)
+Button Iconography
+Mark Exception Icon in ViewConfigDetails Page 
+Compliance Audit Page - additional columns added
+
+- [x] Improvements and Fixes 
+Core Parsing engine handles spaces, backslashes and double quotes encountered in Fortinet Config
+Policy Filter Query
+Report Filter Query
+Organization Report Query
+
+#### Version 1.26 
 
 Legacy 
 {: .label .label-yellow }
 
 Features
 
-1. Additional Security Configuration Checks 
+1. Security Configuration Checks 
     i. Fortinet
     ii. Juniper
     iii. Palo Alto
-2. Bug Fixes from older versions
-3. Security Fixes
+2. Generate Organization Reports
+3. Transfer Assets across Business Units
+4. Bug Fixes from older versions
 
 ---
 
