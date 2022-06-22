@@ -125,7 +125,9 @@ Features
 	</script>
 
 ## Copyright
-Firesec is &copy; 2018-{{ "now" | date: "%Y" }} by [Network Intelligence](https://www.niiconsulting.com).
+Firesec is &copy; 2018-{{ "now" | date: "%Y" }} by [Network Intelligence](https://www.niiconsulting.com). All Rights Reserved.
+* * *
+ The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
 
 <button class="btn js-toggle-dark-mode">Switch to dark color scheme</button>
 
