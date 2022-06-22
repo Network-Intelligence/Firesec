@@ -40,5 +40,6 @@ After expiration of the Software license, You may be entitled to continue use of
 Important: Please read the rules governing the transition to use of other software that is available at docs.firesec.iowww.firesec.io/licensing 
 
 * * *
-© 2021 Network Intelligence India Pvt. Ltd. All Rights Reserved.
+&copy; 2018-{{ "now" | date: "%Y" }} by [Network Intelligence](https://www.niiconsulting.com). All Rights Reserved.
  The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+
