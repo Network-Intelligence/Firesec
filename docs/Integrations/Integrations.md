@@ -99,16 +99,15 @@ New Release
 | Firewall|CheckPoint|GAIA|R80.10|🚫|🚫|✅|
 | Firewall|CheckPoint|GAIA|R77.30|✅|🚫|🚫|
 |Firewall|Cyberoam||10.6.3|✅|❌|🚫|
-|Firewall|Fortinet|FortiGate|v7.x|✅|✅|🚫|
-|Firewall|Fortinet|FortiGate|v6.x|✅|✅|🚫|
-|Firewall|Fortinet|FortiGate|v5.x|✅|✅|🚫|
-|Firewall|Fortinet|FortiGate|v4.x|✅|✅|✅|
-|Firewall|Juniper|vSRX|v20.x|✅|❌|❌|
-|Firewall|Juniper|vSRX|v19.x|✅|❌|❌|
+|Firewall|Fortinet|FortiGate|v7.x|✅|✅|✅|
+|Firewall|Fortinet|FortiGate|v6.x|✅|✅|✅|
+|Firewall|Fortinet|FortiGate|v5.x|✅|✅|✅|
+|Firewall|Juniper|vSRX|v20.x|✅|❌|✅|
+|Firewall|Juniper|vSRX|v19.x|✅|❌|✅|
 |Firewall|Juniper|vSRX|v18.x|✅|❌|✅|
 |Firewall|Juniper|vSRX|v17.x|✅|❌|✅|
-|Firewall|Palo Alto|PanOS|v10.x|✅|❌|❌|
-|Firewall|Palo Alto|PanOS|v9.x|✅|❌|❌|
+|Firewall|Palo Alto|PanOS|v10.x|✅|❌|✅|
+|Firewall|Palo Alto|PanOS|v9.x|✅|❌|✅|
 |Firewall|Palo Alto|PanOS|v8.x|✅|❌|✅|
 |Firewall|Palo Alto|PanOS|v7.x|✅|❌|✅|
 |Firewall|Palo Alto|PanOS|v6.x|✅|❌|✅|
