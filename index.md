@@ -54,7 +54,7 @@ Firesec™ is a Security Analysis and Orchestration platform. It is designed sol
 
 ### Releases
 
-#### Version 1.27 
+#### Version 1.30 
 Stable 
 {: .label .label-green }
 New Release
@@ -66,6 +66,11 @@ Features
 - [x] Export To Excel Functionality
     - Firewall Name or Organization Name is appended to the filename on download
     - Policy Name column added to selection of columns to Export to Excel
+- [x] Parsing
+    - Cisco Firepower
+
+- [x] Compliance
+    - Security Configuration Checks for Panorama
 
 - [x] Reports
     - Mark Exception Icon in Excel Report
@@ -88,7 +93,7 @@ Features
     - Report Filter Query
     - Organization Report Query
 
-#### Version 1.26 
+#### Version 1.29 
 
 Legacy 
 {: .label .label-yellow }
@@ -98,7 +103,7 @@ Features
 1. Security Configuration Checks 
     i. Fortinet
     ii. Juniper
-    iii. Palo Alto
+    iii. Palo Alto 
 2. Generate Organization Reports
 3. Transfer Assets across Business Units
 4. Bug Fixes from older versions
