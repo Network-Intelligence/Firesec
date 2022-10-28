@@ -49,7 +49,7 @@ Further, allow customers to setup a scheduled analysis.
 - ✅ [Juniper]({{ site.url }}{% link docs/Integrations/Network Devices/Juniper.md %})
 - ✅ [Palo Alto]({{ site.url }}{% link docs/Integrations/Network Devices/PaloAlto.md %})
 - ✅ [SonicWall]({{ site.url }}{% link docs/Integrations/Network Devices/Sonicwall.md %})
-- ✅ [Sophos]({{ site.url }}{% link docs/Integrations/Network Devices/Sophos.md %}) (includes erstwhile Cyberoam devices too)
+- ✅ [Sophos XG]({{ site.url }}{% link docs/Integrations/Network Devices/Sophos.md %}) (includes erstwhile Cyberoam devices too)
 
 - ✅ [AWS Security Groups]({{ site.url }}{% link docs/Integrations/Network Devices/AWS.md %})
 - ✅ [Azure Network Security Groups]({{ site.url }}{% link docs/Integrations/Network Devices/Azure.md %})
@@ -113,11 +113,11 @@ New Release
 |Firewall|Palo Alto|PanOS|v6.x|✅|❌|✅|
 |Firewall|Sonicwall|SonicOS|6.5.0.2|✅|✅|❌|
 |Firewall|Sonicwall|SonicOS|6.5.4.4|✅|✅|❌|
-|Firewall|Sophos|SophOS|v1701|✅|❌|✅|
+|Firewall|Sophos|Sophos XG|v1701|✅|❌|✅|
 |Cloud|AWS|NSG|3|🚫|🚫|✅|
 |Cloud|Azure|NSG|3|🚫|🚫|✅|
 |Firewall|Cisco|Firepower|v6.4|🚫|🚫|ꞵ|
-|Management Console|Cisco|FMC|v6.4|🚫|🚫|ꞵ|
+|Management Console|Cisco|FMC|v7.2|🚫|🚫|ꞵ|
 |Management Console|CheckPoint|SmartConsole|R81.10|🚫|🚫|✅|
 |Management Console|CheckPoint|SmartConsole|R81|🚫|🚫|✅|
 |Management Console|CheckPoint|SmartConsole|R80.40|🚫|🚫|✅|
