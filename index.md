@@ -62,36 +62,32 @@ New Release
 
 Features
 - [x] New Reporting Engine
-- [x] System Diagnostics added to measure time taken for Parsing, Analysis & Reports
 - [x] Export To Excel Functionality
-    - Firewall Name or Organization Name is appended to the filename on download
-    - Policy Name column added to selection of columns to Export to Excel
+  - Firewall Name or Organization Name is appended to the filename on download
+  - Policy Name column added to selection of columns to Export to Excel
 - [x] Parsing
-    - Cisco Firepower
-
+  - Cisco Firepower
 - [x] Compliance
-    - Security Configuration Checks for Panorama
-
+  - Security Configuration Checks for Panorama
 - [x] Reports
-    - Mark Exception Icon in Excel Report
-    - Additional columns added in Audit Schedule Detail section (Executive Summary) Excel Report
-    - Additional columns added in Audit Schedule Detail section (Executive Summary) PDF Report
-
+  - Mark Exception Icon in Excel Report
+  - Additional columns added in Audit Schedule Detail section (Executive Summary) Excel Report
+  - Additional columns added in Audit Schedule Detail section (Executive Summary) PDF Report
 - [x] UI Improvements 
-    - Compliance tab {Perf}
-    - Firewall Objects Tab {Perf} 
-    - View & Download Config {Perf}
-    - Listing Business Unit Names grouped by Organization Name in Asset Page BU Selection Drop Down.
-    - Reports Page refresh timer extended to 5 mins (earlier 10 secs)
-    - Button Iconography
-    - Mark Exception Icon in ViewConfigDetails Page 
-    - Compliance Audit Page - additional columns added
-
+  - Compliance tab {Perf}
+  - Firewall Objects Tab {Perf} 
+  - View & Download Config {Perf}
+  - Listing Business Unit Names grouped by Organization Name in Asset Page BU Selection Drop Down.
+  - Reports Page refresh timer extended to 5 mins (earlier 10 secs)
+  - Button Iconography
+  - Mark Exception Icon in ViewConfigDetails Page 
+  - Compliance Audit Page - additional columns added
 - [x] Improvements and Fixes 
-    - Core Parsing engine handles spaces, backslashes and double quotes encountered in Fortinet Config
-    - Policy Filter Query
-    - Report Filter Query
-    - Organization Report Query
+  - System Diagnostics added to measure time taken for Parsing, Analysis & Reports
+  - Core Parsing engine handles spaces, backslashes and double quotes encountered in Fortinet Config
+  - Policy Filter Query
+  - Report Filter Query
+  - Organization Report Query
 
 #### Version 1.29 
 
