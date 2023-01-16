@@ -26,9 +26,11 @@ Technology Alliance Partner
 
 Read only Super Admin User
 
-Click on System 
-Click on Administrators
-Click on Create New
-Fill all the fields like name, password and then attach the profile “read only”.
+- Click on System 
+- Click on Administrators
+- Click on Create New
+- Fill all the fields like name, password and then attach the profile “super reader”.
 
-[fortinetSuperAdmin.png]
+> If not available profile is not available, create one and grant READ permissions. 
+
+![Fortigate User](../../../../assets/images/fortinetSuperAdmin.png)

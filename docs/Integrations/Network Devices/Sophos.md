@@ -11,7 +11,10 @@ has_toc: false
 
 ### Support Firmware Versions
 <div markdown="1">
+
 |Technology|Vendor|Product / OS|Firmware Versions| Manual (XML Config File)|Automatic (SSH)|Automatic (API)|
 |---|---|---|---|---|---|---|
 |Firewall|Sophos|Sophos XG|v1701|✅|❌|✅|
+|Firewall|Sophos|Sophos UTM|v9.x|❌|❌|✅|
+
 </div>

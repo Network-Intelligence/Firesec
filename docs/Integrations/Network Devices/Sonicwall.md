@@ -11,8 +11,10 @@ has_toc: false
 
 ### Support Firmware Versions
 <div markdown="1">
+
 |Technology|Vendor|Product / OS|Firmware Versions| Manual (XML Config File)|Automatic (SSH)|Automatic (API)|
 |---|---|---|---|---|---|---|
 |Firewall|Sonicwall|SonicOS|6.5.0.2|✅|✅|❌|
 |Firewall|Sonicwall|SonicOS|6.5.4.4|✅|✅|❌|
+
 </div>
