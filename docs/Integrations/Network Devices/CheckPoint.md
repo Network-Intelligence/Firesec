@@ -16,11 +16,11 @@ Technology Alliance Partner
 
 <div markdown="1">
 
-|Technology|Vendor|Product / OS|Firmware Versions| Manual (Config File)|Automatic (SSH)|Automatic (API)|
+|Technology|Vendor|Product / OS|Firmware Versions|Automatic (API)|Automatic (SSH)|Manual (Config File)|
 |---|---|---|---|---|---|---|
-|Firewall|CheckPoint|GAIA|R81|❌|❌|✅|
-|Firewall|CheckPoint|GAIA|R80.30|❌|❌|✅|
-|Firewall|CheckPoint|GAIA|R80.20|❌|❌|✅|
+|Firewall|CheckPoint|GAIA|R81|✅|❌|❌|
+|Firewall|CheckPoint|GAIA|R80.30|✅|❌|❌|
+|Firewall|CheckPoint|GAIA|R80.20|✅|❌|❌|
 
 </div>
 
@@ -32,7 +32,7 @@ Technology Alliance Partner
 4.	Next Publish 
 5.	Run the api restart command on the security management server. 
 
-![CheckPoint Management API](images/../../../../assets/images/CheckPoint%20Management%20API.png)
+![CheckPoint Management API](../../../../assets/images/CheckPoint%20Management%20API.png)
 
 > Please note restarting the API is an essential step after making changes to the accessibility setting of the API.
 

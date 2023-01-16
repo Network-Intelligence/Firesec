@@ -26,6 +26,7 @@ Technology Alliance Partner
 ## ASA Series
 
 ### Support Firmware Versions
+
 <div markdown="1">
 
 |Technology|Vendor|Product / OS|Firmware Versions| Manual (XML Config File)|Automatic (SSH)|Automatic (API)|

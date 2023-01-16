@@ -14,7 +14,7 @@ Technology Alliance Partner
 ## Support Firmware Versions
 <div markdown="1">
 
-|Technology|Vendor|Product / OS|Firmware Versions| Manual (Config File)|Automatic (SSH)|Automatic (API)|
+|Technology|Vendor|Product / OS|Firmware Versions|Automatic (API)|Automatic (SSH)|Manual (Config File)|
 |---|---|---|---|---|---|---|
 |Firewall|Fortinet|FortiGate|v7.x|✅|✅|✅|
 |Firewall|Fortinet|FortiGate|v6.x|✅|✅|✅|
