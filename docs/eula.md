@@ -147,11 +147,12 @@ The Software can transmit Rightholder license information needed to verify the l
 ## Rightholder Contact Information 
 Should you have any questions concerning this Agreement, or if you desire to contact the Rightholder for any reason, please contact our Customer Service Department at: 
 
-Network Intelligence India Pvt. Ltd. 
+Network Intelligence Pvt. Ltd. 
 204, Ecospace IT Park, Andheri East, Mumbai. India
 E-mail: info@firesec.io
 Web site : www.firesec.io
 
 * * *
-© 2021 Network Intelligence India Pvt. Ltd. All Rights Reserved.
+&copy; 2018-{{ "now" | date: "%Y" }} Network Intelligence Pvt. Ltd. All Rights Reserved.
+
  The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.

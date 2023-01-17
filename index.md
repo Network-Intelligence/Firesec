@@ -50,19 +50,14 @@ Firesec™ is a Security Analysis and Orchestration platform. It is designed sol
 - [x] Rapid 7 Nexpose
 - [x] Nessus
 
-[View details]({{ site.baseurl }}{% link docs/Integrations/Integrations.md %}){: .btn .btn-green }
+[View details]({{ site.baseurl }}{% link docs/Integrations/Integrations.md %}){: .btn .btn-primary }
 
 ### Releases
 
 #### Version 1.34 
-<div>
-Legacy 
-{: .label .label-yellow }
-Stable 
-{: .label .label-green }
-New Release
-{: .label .label-purple }
-</div>
+Legacy {: .label .label-yellow }
+Stable {: .label .label-green }
+New Release {: .label .label-purple }
 
 Features
 - [x] New Reporting Engine
@@ -114,7 +109,7 @@ Features
 
 ## Review
 
-<div>Review us on [Gartner Peer Insights](https://www.gartner.com/peer-insights/home) Platform </div>
+Review us on [Gartner Peer Insights](https://www.gartner.com/peer-insights/home) Platform
 <div class="GartnerPeerInsightsWidget">  </div>
 
 <script type="text/javascript" src="https://www.gartner.com/reviews/public/Widget/js/widget.js"></script>
