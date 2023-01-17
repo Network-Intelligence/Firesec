@@ -54,11 +54,15 @@ Firesec™ is a Security Analysis and Orchestration platform. It is designed sol
 
 ### Releases
 
-#### Version 1.30 
+#### Version 1.34 
+<div>
+Legacy 
+{: .label .label-yellow }
 Stable 
 {: .label .label-green }
 New Release
 {: .label .label-purple }
+</div>
 
 Features
 - [x] New Reporting Engine
@@ -66,9 +70,11 @@ Features
   - Firewall Name or Organization Name is appended to the filename on download
   - Policy Name column added to selection of columns to Export to Excel
 - [x] Parsing
+  - Sophos UTM 
   - Cisco Firepower
 - [x] Compliance
   - Security Configuration Checks for Panorama
+  - Security Configuration Checks for Sophos UTM
 - [x] Reports
   - Mark Exception Icon in Excel Report
   - Additional columns added in Audit Schedule Detail section (Executive Summary) Excel Report
@@ -89,7 +95,7 @@ Features
   - Report Filter Query
   - Organization Report Query
 
-#### Version 1.29 
+#### Version 1.33 
 
 Legacy 
 {: .label .label-yellow }
@@ -108,9 +114,9 @@ Features
 
 ## Review
 
-<div>Review us on [Gartner Peer Insights](https://www.gartner.com/peer-insights/home) Platform
+<div>Review us on [Gartner Peer Insights](https://www.gartner.com/peer-insights/home) Platform </div>
 <div class="GartnerPeerInsightsWidget">  </div>
-</div>
+
 <script type="text/javascript" src="https://www.gartner.com/reviews/public/Widget/js/widget.js"></script>
 <script type="text/javascript">
   const gpiContainerDiv = document.querySelector('.GartnerPeerInsightsWidget');
