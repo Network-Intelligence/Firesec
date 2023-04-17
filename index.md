@@ -34,7 +34,7 @@ Firesec™ is a Security Analysis and Orchestration platform. It is designed sol
 - [x] Juniper SRX
 - [x] Palo Alto
 - [x] SonicWall
-- [x] Sophos XG (includes erstwhile Cyberoam devices too)
+- [x] Sophos XG, UTM (includes erstwhile Cyberoam devices too)
 
 - [x] AWS Security Groups
 - [x] Azure Network Security Groups
