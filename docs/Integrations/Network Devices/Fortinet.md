@@ -34,3 +34,14 @@ Read only Super Admin User
 > If not available profile is not available, create one and grant READ permissions. 
 
 ![Fortigate User](../../../../assets/images/fortinetSuperAdmin.png)
+
+
+## Step by Step How To
+
+[How To](https://scribehow.com/shared/Creating_Administrator_Users_on_FortiGate__kcxDeASMRuCpLvWG-xoh5g) 
+
+## References 
+
+[FortiGate Local Administrator](https://docs.fortinet.com/document/fortigate/7.4.0/administration-guide/562247/local-authentication)
+
+[FortiGate REST API Administrator](https://docs.fortinet.com/document/fortigate/7.4.0/administration-guide/399023/rest-api-administrator)
