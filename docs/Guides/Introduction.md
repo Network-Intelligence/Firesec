@@ -8,7 +8,7 @@ has_toc: false
 
 ## Guides
 
-### User Guide
+### [User Guide](/docs/Guides/UserGuide/Intro.md)
 
 
-### Admin Guide
+### [Admin Guide](/docs/Guides/AdminGuide/Intro.md)

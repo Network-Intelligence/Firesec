@@ -36,7 +36,7 @@ Read only Super Admin User
 ![Fortigate User](../../../../assets/images/fortinetSuperAdmin.png)
 
 # Creating Administrator Users on FortiGate
-#### [Made by Rishit Shah with Scribe](https://scribehow.com/shared/Creating_Administrator_Users_on_FortiGate__kcxDeASMRuCpLvWG-xoh5g)
+#### [Made by Rishit Shah](https://scribehow.com/shared/Creating_Administrator_Users_on_FortiGate__kcxDeASMRuCpLvWG-xoh5g)
 Creating Administrator Users on FortiGate - Local administrator and REST API administrator
 
 #### Creating a Local Administrator on FortiGate
@@ -120,11 +120,6 @@ Creating Administrator Users on FortiGate - Local administrator and REST API adm
 **20. Click "Close"**
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-05-30/2e72d845-ed49-4d96-a8d0-ce19177a139d/ascreenshot.jpeg?tl_px=477,361&br_px=1223,781&sharp=0.8&width=560&wat_scale=50&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-labs-public.s3.us-east-2.amazonaws.com/images/watermarks/watermark_default.png&wat_pad=262,278)
-#### [Made with Scribe](https://scribehow.com/shared/Creating_Administrator_Users_on_FortiGate__kcxDeASMRuCpLvWG-xoh5g)
-
-
-
-
 
 ## Step by Step How To
 
