@@ -36,3 +36,7 @@ Technology Alliance Partner
 |Firewall|Cisco|ASA|6.0.0|✅|✅|❌|
 
 </div>
+
+### References 
+
+[How to](https://scribehow.com/page/Cisco_ASA_Pre-requisites__wlsbA9LMRsa1mbdLNKMB1w))
