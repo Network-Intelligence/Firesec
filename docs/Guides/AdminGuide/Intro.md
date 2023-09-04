@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title: Admin Guide
 nav_order: 1
 parent: Guides
 has_children: false
