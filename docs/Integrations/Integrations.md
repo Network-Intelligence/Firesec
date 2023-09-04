@@ -147,12 +147,12 @@ This step-by-step guide provides clear instructions on how to integrate a firewa
 >> Please note this url could be different in your environment. 
 
 
-2. Enter the username and Password to Login
+1. Enter the username and Password to Login
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-07-25/be45fc63-c3ef-4b55-a9e9-2f3abcebf66a/ascreenshot.jpeg?tl_px=248,48&br_px=1108,529&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/8B5CF6_standard.png&wat_pad=402,212)
 
 
-3. A successful login, lands the user on to the Dashboard
+1. A successful login, lands the user on to the Dashboard
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-07-25/e5918bb7-101b-4dfc-881c-18336c8e006e/screenshot.png?tl_px=1,0&br_px=1378,750&force_format=png&width=1120.0)
 
