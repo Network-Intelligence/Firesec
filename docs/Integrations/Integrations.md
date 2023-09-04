@@ -138,14 +138,13 @@ New Release
 
 ***
 
-##
 # Step-by-Step Guide to integrate a Firewall in Firesec
-#### [Made by Rishit Shah with Scribe](https://scribehow.com/shared/Step-by-Step_Guide_to_integrate_a_Firewall_in_Firesec__vm1DzK2oQlaT2VG_SNehNg)
+
 This step-by-step guide provides clear instructions on how to integrate a firewall in Firesec. It includes detailed steps on how to navigate the Firesec platform, add new assets, configure device settings, parse firewall configurations, analyze security and optimization, filter and export data, run compliance audits, and generate reports. Following this guide will help users effectively manage and secure their firewall configurations using Firesec.
 
 1. Navigate to Firesec Web URL  https://analyzer.firesec.io/Account/Login.aspx 
 
-Please note this url could be different in your environment. 
+>> Please note this url could be different in your environment. 
 
 
 2. Enter the username and Password to Login
@@ -666,6 +665,6 @@ Detailed"
 >> Alert!
  The report generation process may take up to 50 mins depending on the size of the firewall ruleset, objects. Please be patient.
 
-#### [Made with Scribe](https://scribehow.com/shared/Step-by-Step_Guide_to_integrate_a_Firewall_in_Firesec__vm1DzK2oQlaT2VG_SNehNg)
+#### [Made by Rishit Shah on Scribe](https://scribehow.com/shared/Step-by-Step_Guide_to_integrate_a_Firewall_in_Firesec__vm1DzK2oQlaT2VG_SNehNg)
 
 
