@@ -582,7 +582,7 @@ Tip: Tip! Recurrence can help with Automatic Scheduling on Analysis. The Recomme
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-07-25/c187b215-f676-4b8e-8a3f-c283ead6f43b/ascreenshot.jpeg?tl_px=238,0&br_px=1385,640&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/8B5CF6_standard.png&wat_pad=972,159)
 
 
-87) Click the "Report Title" field.
+87) Enter the desired "Report Title", Select the report format - PDF or Excel, report type - Executive or Detailed
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-07-25/9dba1172-38f9-4852-b735-7a321c371e8f/ascreenshot.jpeg?tl_px=392,0&br_px=1252,480&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/8B5CF6_standard.png&wat_pad=402,169)
 
@@ -618,46 +618,6 @@ Tip: Tip! Recurrence can help with Automatic Scheduling on Analysis. The Recomme
 
 
 94) Click "EXPORT"
-
-
-95) Click "CLOSE"
-
-
-96) Click "1. Report Title"
-
-
-97) Click the "Pdf" field.
-
-
-98) Click "Next"
-
-
-99) Click here.
-
-
-100) Click the "Report Title" field.
-
-
-101) Type " [[delete]]"
-
-
-102) Click "Report Title
- 
-Report Format
-Pdf
-Excel
-Report Type
-Executive
-Detailed"
-
-
-103) Click "Next"
-
-
-104) Click "Generate Audit Report"
-
-
-105) Click "EXPORT"
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-07-25/84324ec5-51f1-47dd-993b-bb3a57823a0c/ascreenshot.jpeg?tl_px=238,0&br_px=1385,640&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/8B5CF6_standard.png&wat_pad=958,80)
 
